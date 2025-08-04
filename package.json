@@ -1,7 +1,7 @@
 {
   "name": "ellevit-cost-calculator",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "homepage": "https://bajcarm.github.io/ellevit-cost-calculator/",
   "scripts": {
